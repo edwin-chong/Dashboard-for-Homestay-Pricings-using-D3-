@@ -1,3 +1,7 @@
+# Dashboard created using D3
+Preprocessing code for input data available at 'IS428 Project v3.ipynb'
+Report available at 'IS428G2T4_Final_Report.pdf'
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
